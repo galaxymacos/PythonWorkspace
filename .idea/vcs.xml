@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPMorganVirtualInternship/JPMC-tech-task-1-PY3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JPMorganVirtualInternship/JPMC-tech-task-2-PY3" vcs="Git" />
   </component>
 </project>
